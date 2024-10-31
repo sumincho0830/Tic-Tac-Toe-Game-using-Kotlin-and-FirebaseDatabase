@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "830892445778",
+    "firebase_url": "https://tictactoe-883eb-default-rtdb.firebaseio.com",
+    "project_id": "tictactoe-883eb",
+    "storage_bucket": "tictactoe-883eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830892445778:android:6671ced8a6e4ea55940f8b",
+        "android_client_info": {
+          "package_name": "com.sum.tictactoe2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCr9pi8Pk6_CzDLxtP93C3GSZtOcp5N4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
